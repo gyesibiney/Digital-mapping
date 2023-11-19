@@ -4,7 +4,7 @@
 
 |  | Project's Name | Article Link    | Visualization Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  - Digital Mapping            |  () | (file:///Users/apple/Downloads/bus_stations_map.html) |
+| 1 |  -Digital Mapping            |  () | (file:///Users/apple/Downloads/bus_stations_map.html) |
 
 
 # Digital mapping bus transit route ✨
