@@ -4,7 +4,7 @@
 
 |  | Project's Name | Article Link    | Visualization file.html  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Digital Mapping            |  () | (file:///Users/apple/Downloads/bus_stations_map.html) |
+| 1 |  -Digital Mapping            |  (https://medium.com/@david.biney/creating-an-interactive-bus-transit-route-map-and-distance-calculation-with-python-a-stepwise-6ab0cbf0ac44) | (file:///Users/apple/Downloads/bus_stations_map.html) |
 
 
 # Digital mapping bus transit route ✨
