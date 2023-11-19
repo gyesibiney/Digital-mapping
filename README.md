@@ -2,7 +2,7 @@
    =================
 
 
-|  | Project's Name | Article Link    | Visualization Link  |
+|  | Project's Name | Article Link    | Visualization file.html  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -Digital Mapping            |  () | (file:///Users/apple/Downloads/bus_stations_map.html) |
 
