@@ -43,9 +43,9 @@ The Two commands are of the same structure
 
 🚀 **Usage**
 -----------------
----
-https://nbviewer.org/github/gyesibiney/Digital-mapping/blob/main/digital_mapping.ipynb#
----
+
+https://nbviewer.org/github/gyesibiney/Digital-mapping/blob/main/digital_mapping.ipynb
+
 
 
 ✨ **Acknowledgments**
